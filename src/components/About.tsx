@@ -71,7 +71,7 @@ const About: React.FC = () => {
             <div className="relative">
               <img
                 src="https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="João Silva trabalhando"
+                alt="Ruan Vieira trabalhando"
                 className="w-96 h-96 object-cover rounded-2xl shadow-2xl"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-transparent rounded-2xl"></div>

@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Brand & Description */}
           <div className="md:col-span-1">
-            <h3 className="text-2xl font-bold mb-4">João Silva</h3>
+            <h3 className="text-2xl font-bold mb-4">Ruan Vieira</h3>
             <p className="text-gray-400 leading-relaxed">
               Desenvolvedor Full Stack apaixonado por criar soluções digitais inovadoras e experiências de usuário excepcionais.
             </p>
@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center text-gray-400 mb-4 md:mb-0">
               <span>Feito com</span>
               <Heart className="text-red-500 mx-2" size={16} fill="currentColor" />
-              <span>por João Silva • {new Date().getFullYear()}</span>
+              <span>por Ruan Vieira • {new Date().getFullYear()}</span>
             </div>
             
             <div className="text-gray-400 text-sm">
